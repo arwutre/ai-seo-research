@@ -1,7 +1,7 @@
 # AI-Powered SEO Content Production — Playbook & SOP for B2B SaaS
 
 **Author:** Ariel  
-**Version:** 2.0 — Final  
+**Version:** Final  
 **Date:** 26.04.2026  
 **Research base:** 10 expert sources — YouTube transcripts + LinkedIn post collections (collected 22.04.2026)
 
